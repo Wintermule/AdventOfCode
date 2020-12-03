@@ -6,7 +6,7 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            var level = new Level1();
+            var level = new Level3();
             level.PrintResult();
             Console.ReadLine();
         }
